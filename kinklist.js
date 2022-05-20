@@ -106,7 +106,7 @@ $(function(){
         createColumns: function(){
             var colClasses = ['100', '50', '33', '25'];
 
-            var numCols = Math.floor((document.body.scrollWidth - 20) / 400);
+            var numCols = Math.floor((document.body.scrollWidth - 20) / 500);
             if(!numCols) numCols = 1;
             if(numCols > 4) numCols = 4;
             var colClass = 'col' + colClasses[numCols - 1];
