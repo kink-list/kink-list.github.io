@@ -154,7 +154,7 @@ td + td { border-left-style:none }
 	margin-left:-40px
 }
 
-@media (min-width: 1700px) {
+@media (min-width: 2000px) {
 	.legend {
 		position:absolute;
 		top:7px;
@@ -172,7 +172,7 @@ td + td { border-left-style:none }
 	h1 { margin-bottom:0 }
 }
 
-@media (max-width: 1700px) and (min-width: 800px) {
+@media (max-width: 1999px) and (min-width: 1500px) {
 	.legend div {
 		padding-right:20px;
 		padding-bottom:10px
@@ -185,7 +185,7 @@ td + td { border-left-style:none }
 	}
 }
 
-@media (max-width: 800px) and (min-width: 598px) {
+@media (max-width: 1499px) and (min-width: 1000px) {
 	.legend div {
 		width:180px;
 		padding-bottom:10px;
@@ -209,13 +209,13 @@ td + td { border-left-style:none }
 	#Loading { left:230px }
 }
 
-@media (max-width: 597px) {
+@media (max-width: 999px) {
 	body { font-size:10px }
 
 	table { min-width:345px }
 
 	.legend div {
-		width:200px;
+		width:150px;
 		padding-bottom:10px;
 		padding-left:10px
 	}
@@ -224,7 +224,7 @@ td + td { border-left-style:none }
 		position:relative;
 		margin-top:10px;
 		margin-left:0;
-		width:345px
+		width:470px
 	}
 
 	#URL {
@@ -269,7 +269,7 @@ td + td { border-left-style:none }
 }
 
 .widthWrapper {
-	max-width:1700px;
+	max-width:2200px;
 	margin-left:auto;
 	margin-right:auto;
 	position:relative
