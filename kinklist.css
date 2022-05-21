@@ -160,6 +160,8 @@ td + td { border-left-style:none }
   bottom: 0;
   width: 100%;
   text-align: center;
+  padding-bottom: 20px;
+  box-sizing:inherit;
 }
 
 @media (min-width: 2000px) {
