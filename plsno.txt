@@ -1,4 +1,4 @@
-#Body Part Size
+#Body Part Sizes (Partner)
 (Small, Large)
 * Asses
 * Cocks
@@ -10,6 +10,19 @@
 ? This does not include the circular area around the nipple, the areolae.
 * Areolae
 ? This is the circular area around a nipple.
+
+#Body Part Types
+(Partner)
+* Uncut Cocks
+? Expresses an interest in penises that have not been circumsized and have a natural foreskin.
+* Cut Cocks
+? Expresses an interest in circumcised penises, or penises with very little foreskin.
+* Long Nipples
+? Expresses an interest in nipples that are significantly longer than average.
+* Inverted Nipples
+? Expresses an interest in nipples that are partially or completely inverted.
+* Puffy Areolae
+? Expresses an interest in puffy areolae that extend beyond the skin of the breast.
 
 #Body Types
 (Partner)
@@ -42,19 +55,6 @@
 * Light Brown Skin
 * Pale Skin
 * Extremely Pale Skin
-
-#Body Part Types
-(Partner)
-* Uncut Cocks
-? Expresses an interest in penises that have not been circumsized and have a natural foreskin.
-* Cut Cocks
-? Expresses an interest in circumcised penises, or penises with very little foreskin.
-* Long Nipples
-? Expresses an interest in nipples that are significantly longer than average.
-* Inverted Nipples
-? Expresses an interest in nipples that are partially or completely inverted.
-* Puffy Areolae
-? Expresses an interest in puffy areolae that extend beyond the skin of the breast.
 
 #Accessories & Styles
 (Partner)
