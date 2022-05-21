@@ -293,7 +293,7 @@ $(function(){
             }
         },
         export: function(){
-            var username = prompt("Please enter your name");
+            var username = prompt("This will output a screenshot to Imgur.com and provide you with a URL to that image.\r\n\nPlease enter your name");
             if(typeof username !== 'string') return;
             else if (username.length ) username = '(' + username + ')';
 
