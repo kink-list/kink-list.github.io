@@ -245,7 +245,7 @@ $(function(){
 
             context.font = "bold 24px Arial";
             context.fillStyle = '#000000';
-            context.fillText('Kinklist 1.1 ' + username, 5, 25);
+            context.fillText(username + '\'s Kinklist (v1.2)', 5, 25);
 
             inputKinks.drawLegend(context);
             return { context: context, canvas: canvas };
@@ -293,9 +293,9 @@ $(function(){
             }
         },
         export: function(){
-            var username = prompt("This will output a screenshot to Imgur.com and provide you with a URL to that image.\r\n\nPlease enter your name");
+            var username = prompt("This will output a screenshot to Imgur.com and provide you with a URL to that image.\r\n\nPlease enter your name:");
             if(typeof username !== 'string') return;
-            else if (username.length ) username = '(' + username + ')';
+            else if (username.length ) username = username;
 
             $('#Loading').fadeIn();
             $('#URL').fadeOut();
