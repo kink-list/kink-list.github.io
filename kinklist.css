@@ -14,7 +14,7 @@ h2 {
 
 table {
 	border-collapse:collapse;
-	margin-bottom:10px;
+	margin-bottom:20px;
 	width:100%
 }
 
@@ -24,7 +24,8 @@ th {
 	margin:0;
 	padding:4px;
 	background-color:#666;
-	color:#FFF
+	color:#FFF;
+	padding-bottom:60px
 }
 
 th.choicesCol {
