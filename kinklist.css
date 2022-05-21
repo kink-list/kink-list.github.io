@@ -1,6 +1,7 @@
 body {
 	font-family:'Verdana','Arial';
-	font-size:12px
+	font-size:12px;
+	padding-bottom:60px
 }
 
 h2 {
@@ -160,8 +161,8 @@ td + td { border-left-style:none }
   bottom: 0;
   width: 100%;
   text-align: center;
-  padding-bottom: 20px;
-  box-sizing:inherit;
+  padding-bottom: 10px;
+  box-sizing:inherit
 }
 
 @media (min-width: 2000px) {
