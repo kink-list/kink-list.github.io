@@ -152,6 +152,10 @@
 ? Cow-like humanoids like Holstaur and Minotaurs fit in here.  
 * Demons and Succubi
 ? Humanoids that often have horns and wildly varying appearances.  Some are sexy by nature, others are horrific.  
+* Aliens
+? Extraterrestrials that may or may not be humanoid in design.
+* Gelatinous Beings
+? Creatures (sapient or not) composed mostly or entirely of living gel, slime, rubber, or other semi-fluid substance.  
 * Spirits and Ghosts
 ? Humanoid dead that have been separated from their body.  
 * Vampires
@@ -168,12 +172,12 @@
 ? Scary stuff that doesn't look at all like a person.  
 * Dinosaurs
 ? Typically big, scaly ones, but also small, feathered proto-birds and large aquatic dinos.  
-* Non-Humanoid Mammals
+* Non-Sapient Mammals
 ? Actual animals.  Dogs, cats, goats, horses, dolphins... even whales if you're particularly adventurous.  
-* Non-Humanoid Insects
+* Non-Sapient Insects
 ? This relates to bugs.  This can be directly sexual or relating to being bitten, stung, etc. 
-* Other Non-Humanoids
-? This includes lizards, snakes, crododiles, fish, birds, insects... even dinosaurs if you're particularly adventurous.
+* Other Non-Sapients
+? This includes lizards, snakes, crododiles, fish, birds, insects, plants, etc.
 
 #Roles
 (Self, Partner)
@@ -388,6 +392,8 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Refers to an interest in sexual encounters in which there is a signifigant gap in the ages of participants.  
 * Bestiality
 ? Refers to a sapient being engaging in a sexual act with a non-sapient animal, or roleplaying a non-sapient animal and being engaged by a sapient being.
+* Cannibalism
+? Refers to a creature eating one of its own kind.  Most often used to refer to a human eating another human (cooked or raw).  
 * Cheating
 ? Where one or both partners are being unfaithful to significant others.  Includes Netorare (NTR) and cuckolding.
 * Emetophilia (Vomit)
@@ -409,12 +415,16 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 
 #General Surrealism
 (Self, Partner)
+* Shrinking
+? Reducing in body size.
 * Breast Growth
 ? A situation in which at least one character's female breasts grow in size, typically to fantastical proportions, by any means, including but not limited to magical or chemical.  Can also refer to a male character developing female breasts.
 * Cock/Ball Growth
 ? A situation in which at least one character's male penis and testicles grow in size, typically to fantastical proportions, by any means, including but not limited to magical or chemical infusion or due to sexual fluids becoming blocked or otherwise obstructed.
 * Growth
 ? Growing in body size by magical, medicinal, or otherwise fantastic means.
+* Muscle Growth
+? Rapidly increasing the size or strength of one's muscles, typically by magical, medicinal, or other fantastic means.
 * Hyper Muscle Growth
 ? Increasing the size or strength of one's muscles to excessive or impossible degrees.
 * Forced Growth
@@ -427,68 +437,57 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? An act where a participant is filled with a massive amount of semen, typically directly from the penis due to anal, vaginal or oral sex, causing their stomach and/or body to bulge or become somewhat round.
 * Cum Inflation (Heavy/Extreme)
 ? An act where a participant is filled with an impossible amount of semen, typically directly from the penis due to anal, vaginal or oral sex, causing their stomach and/or body to expand to sizes that would ordinarily be lethal or impossible.
+* Popping
+? The act of causing a body part or the entire body to explode by means of ballooning or inflation, or being the recipient of such actions.
 * Extreme Pregnancy
 ? The act of becoming pregnant with an incredible or unrealistic size and/or number of fetuses/eggs, often in an unrealistically short time span, and often to the point of immobility. 
-* Furry
-? Anthropomorphic animal characters.
-
-
-
-* Macrophilia
-? Expresses an interest in characters that are incredibly and unrealistically tall.
-* Magic Users
-? RPs involving characters that are capable of performing magical or supernatural feats that may or may not be sexual in nature; typically refers to transformation or mind control-related play.
 * Male Pregnancy
-? The act of a male character becoming pregnant during the course of an RP, or engaging in an RP in which at least one male character is pregnant.
+? The act of a man becoming pregnant, or deriving sexual gratification from a situation in which at least one man is pregnant.
+* Oviposition
+? The laying or depositing of eggs, often via a tube.  May refer to media in which a character will lay eggs through an orifice, sometimes after having the eggs implanted in them by another creature.
 * Microphilia
 ? Expresses an interest in characters that are impossibly and unrealistically small.
-* Monster or Alien
-? Various types of monsters, Extraterrestrials, and aesthetically challenging characters.
+* Macrophilia
+? Expresses an interest in characters that are incredibly and unrealistically tall or large.
+* Magic Users
+? Involves participants performing magical or supernatural feats that may or may not be sexual in nature; often relates to transformation or mind control.
+* Furry
+? Anthropomorphic animal characters.  (Animals that look like people, or people that look like animals.)
 * Multiple Breasts
-? Expresses an interest in characters that have more than one pair of breasts, typically found on canine females.
-* Muscle Growth
-? Increasing the size or strength of one's muscles by magical, medicinal, or other fantastic means.
+? An interest in humanoids that have more than one pair of breasts.  May be due to mutation, modification, or a non-human species that has multiple breasts by design.
 * Nipple Penetration
-? The act of penetrating the nipple, often deep into the breast, with an object such as a finger, sex toy or penis, etc, or receiving such actions.
-* Oviposition
-? Engaging in an RP in which at least one character will lay eggs through an orifice.
-* Popping
-? The act of causing a part of a character's anatomy, or the entire character, to explode by means of ballooning or inflation, or being the recipient of such actions.
+? The act of penetrating the nipple, often deep into the breast, with an object such as a finger, sex toy, penis, etc, or receiving such actions.
 * Prehensile Cocks
-? Expresses an interest in characters that have the ability to control the motion of their penises.
-* Rubber/Gel Characters
-? Expresses an interest in characters who are composed of rubber, latex, gel or an otherwise elastic material.
+? The the ability of a creature to control the motion of their penis like a tail or a tongue.
 * Sentient Cocks
-? Engaging in an RP in which a player has a cock which is sentient. It might have the ability to twist and coil, move by itself, the external urethral orifice able to open and close at will. Can be related to cock vore, but not neccesarily. Some may prefer it to have the appearance of a snake.
-* Shrinking
-? Reducing in body size, usually a reduction of about one foot in size, or being the receiver of such actions.
+? A penis that operates independently of its owner.  It might have the ability to twist and coil, move by itself, the external urethral orifice able to open and close at will. Can be related to cock vore, but not neccesarily.  Some may prefer it to have the appearance of a snake.
 * Tentacles
-? Engaging in an RP in which self-sentient tentacles or tentacle-like appendages will penetrate a character; often implies multiple penetration.
+? Deriving sexual gratification from the action of tentacles or tentacle-like appendages penetrating a sentient being; often occurs with multiple penetration and is rarely consentual.
 * Transformation
-? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
+? The act of causing the physical characteristics of a participant, possibly including one's self, by magical or chemical means, to change (typically in a dramatic fashion).  May refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
 
 # Vore / Unbirth
 (General)
 * Absorption
-? Vore by means of merging with the predator, or being absorbed and/or dissolved by an anatomical fluid of the predator.
+? Consumption by means of merging with the predator, or being absorbed and/or dissolved by an anatomical fluid of the predator.
 * Alternative Vore
-? The act of physically consuming another character, performed through an orifice other than the mouth, penis, vagina or anus, or receiving such actions.
+? The act of physically consuming another being, performed through an orifice other than the mouth, penis, vagina or anus, or receiving such actions.
 * Anal Vore
-? Vore where something or someone is swallowed into the anus.
+? Consumption where something or someone is swallowed into the anus.
 * Cock Vore
-? The act of physically consuming another character, performed through the penis, often resulting in the prey character being lodged into the testicles, or being the recipient of such actions.
+? The act of physically consuming another being, performed through the penis, often resulting in the prey character being lodged into the testicles, or being the recipient of such actions.
 * Digestion
-? Engaging in a vore-related RP in which the prey character will be digested in whatever fluid(s) are applicable.
+? Consumption in which the prey will be digested in whatever fluid(s) are applicable (typically stomach acid).
 * Disposal
-? Engaging in a vore-related RP in which the prey will be consumed, digested and released as fecal matter and/or urine.
+? Consumption in which the prey will be eaten, digested, and released as fecal matter and/or urine.
 * Hard Vore
-? Engaging in vore in which the prey character is chewed and/or eaten piece by piece, or otherwise physically mutilated by the act of being consumed.
+? Content in which the prey is chewed and/or eaten piece by piece, or otherwise physically mutilated by the act of being consumed.  Often cannibalistic in nature.
 * Realistic Vore
-? Engaging in a vore scene in which realistic physiology is taken into account; typically connotates hard vore and digestion.
+? Content in which realistic physiology is taken into account; typically connotates hard vore and digestion.
 * Soft Vore
-? Engaging in vore in which the prey character is consumed whole, causing no or minimal damage to the character due to the vore process.
+? Engaging in vore in which the prey character is consumed whole, causing no or minimal damage to the character due to the consumption process.
 * Unbirthing
-? The act of physically consuming another character through the vagina and into the womb, or being the recipient of such actions.
+? The act of physically consuming another being through the vagina and into the womb, or being the recipient of such actions.
 * Unrealistic Vore
 ? Engaging in a vore scene in which realistic physiology is not taken into account; typically connotates soft vore.
 * Vore - Being Predator
