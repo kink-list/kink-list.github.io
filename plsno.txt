@@ -56,12 +56,14 @@
 * Puffy Areolae
 ? Expresses an interest in puffy areolae that extend beyond the skin of the breast.
 
-#Accessories and Styles
+#Accessories & Styles
 (Partner)
 * Glasses
 ? A preference for characters who wear glasses.
 * Non-Sexual Piercings
 ? Attraction to or engagement with a partner who has piercings on parts of their body that are not of a sexual nature, such as but not limited to tongue, ears, belly button etc.
+* Genital/Nipple Piercings
+? Piercings that are located on the nipples, clitoris, penis, or other sexual areas of the body.
 * Long Hair
 * Medium-Length Hair
 * Short Hair
@@ -119,7 +121,7 @@
 ? Relating to general attraction or to use of a full outfit, typically a furry costume or similar, often in a sexual context.  
 
 #Species Interests
-(Partner)
+(General)
 * Humans
 * Fairies/Pixies
 ? Small, winged humanoid creatures that are often mischevious. 
@@ -175,6 +177,8 @@
 ? Scary stuff that doesn't look at all like a person.  
 * Dinosaurs
 ? Typically big, scaly ones, but also small, feathered proto-birds and large aquatic dinos.  
+* Dragons
+? You know what a dragon is.  Any dragon qualifies here, sapient or not.
 * Non-Sapient Mammals
 ? Actual animals.  Dogs, cats, goats, horses, dolphins... even whales if you're particularly adventurous.  
 * Non-Sapient Insects
@@ -268,8 +272,6 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Teasing may be physical and/or verbal foreplay, typically to arouse one's partner to the point of sexual frustration or desperation.  
 * Tickling
 ? The act of tickling and/or being tickled in a teasing or sexual way; or, receiving sexual stimulation from such.
-* Transformation
-? The act of altering the physical characteristics of a participant, possibly including one's self, by magical, chemical, or advanced technological means, in a dramatic fashion.  
 * Tribadism / Scissoring
 ? Form of non-penetrative sex in which a person rubs their vagina against a same-sex partner's body for sexual stimulation, in most cases vaginal-to-vaginal contact through scissoring.
 * Underwear
@@ -277,7 +279,7 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Vanilla Sex
 ? Sex which does not involve such elements as BDSM, kink, or fetish activities.  
 
-# Oral Sex
+#Oral Sex
 (Giving, Recieving)
 * Blowjob
 ? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals.
@@ -292,8 +294,6 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 
 #Ass Play
 (Giving, Receiving)
-* Ass Worship
-? Gratuitous acknowledgment of one's partner's ass or buttocks, either verbal and/or physical, or receiving such actions.
 * Anal Fisting
 ? The act of inserting one's hand(s) and/or arm(s) into one's partner's anus, or being the recipient of such acts.
 * Anal Training
@@ -329,6 +329,8 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? The act of lodging an object in someone's mouth to prevent speech and often to force them to breathe through their nose.
 * Leash
 ? Being led around on a leash. 
+* Breath Play
+? A situation in which at least one participant will have physical control over the breathing habits of another participant, often by either intermittent choking and/or due to the penetration of the throat.  Devices may also be used to this effect.  Dangerous when performed carelessly.
 
 #Toys
 (Self, Partner)
@@ -356,7 +358,7 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Discipline
 ? The use of reinforcement (rewards and/or punishments) in order to train a submissive to obey the various commands of a master.
 * Forced Exhibitionism
-? The act of forcing or being forced by physical or coercive means into being naked or performing sexual acts in a publicly visible area or for video/photography. 
+? The act of forcing or being forced by physical or coercive means into being naked, servile, or performing sexual acts in a publicly visible area or for video/photography.  Similar to Forced Nudity, but more general.
 * Forced Orgasm
 ? A forced orgasm is consensual BDSM or kinky sexual play whereby a person consents to be forced to orgasm in a way that is beyond their control.
 * Immobilization
@@ -397,8 +399,8 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Refers to a sapient being engaging in a sexual act with a non-sapient animal, or roleplaying a non-sapient animal and being engaged by a sapient being.
 * Cannibalism
 ? Refers to a creature eating one of its own kind.  Most often used to refer to a human eating another human (cooked or raw).  
-* Cheating
-? Where one or both partners are being unfaithful to significant others.  Includes Netorare (NTR) and cuckolding.
+* Cheating, Cuckold, and Cuckquean
+? Where one or both partners are being unfaithful to significant others.  Includes Netorare (NTR) and cuckolding, and often includes the connotation of submission, helplessness, or weakness on the part of the party being cheated on.  May in some cases be a show of dominance or revenge by the cheater.  
 * Emetophilia (Vomit)
 ? Deriving sexual enjoyment from the act or substance of vomit.
 * Exhibitionism
@@ -467,9 +469,9 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Tentacles
 ? Deriving sexual gratification from the action of tentacles or tentacle-like appendages penetrating a sentient being; often occurs with multiple penetration and is rarely consentual.
 * Transformation
-? The act of causing the physical characteristics of a participant, possibly including one's self, by magical or chemical means, to change (typically in a dramatic fashion).  May refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
+? The act of altering the physical characteristics of a participant, possibly including one's self, by magical, chemical, or advanced technological means.  
 
-# Vore / Unbirth
+#Vore and Unbirth
 (General)
 * Absorption
 ? Consumption by means of merging with the predator, or being absorbed and/or dissolved by an anatomical fluid of the predator.
@@ -519,93 +521,82 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Watersports
 ? Pertains to the inclusion of urine, or the expelling of urine, in any form, in a sexual context.
 
-Degradation
+#Degradation
 (Giving, Receiving)
 * Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
+? The self-abasing act of pleading, as a form of submission.
 * Cock Slapping
-? The act of using one's penis to slap one's partner and/or being slapped by a penis, usually in order to humiliate or debase a bottom prior to or during fellatio.
+? The act of using one's penis to slap one's partner (or being slapped by a penis), often to humiliate or debase a bottom prior to or during fellatio.
 * Forced Nudity
-? The act of either forcing a character to be nude or being forced to be nude by another character; typically used in public situations.
-* Force Feeding
-? Engaging in an RP in which a character, typically bound or otherwise immobile, is forced to consume large, often impossible and unrealistic, amounts of food against his or her will, often resulting in inflation and/or weight gain.
-* Glory hole
-? Servicing a partner or recieving service from a partner with a physical barrier between the participants
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
-* Name calling
-? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
+? The act of either forcing someone to be nude or being forced to be nude by another person, often in public situations.  Often a component of Forced Exhibitionism.  
+* Force-Feeding
+? When a person, typically bound or otherwise immobile, is forced to consume large, often impossible and unrealistic, amounts of food against his or her will, often resulting in inflation and/or immediate weight gain.
+* Glory Hole
+? Servicing a partner or recieving service from a partner with a physical barrier between the participants.  
+* General Humiliation
+? Intentional embarrassment, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more emotionally targeted form of degradation.
+* Name-Calling
+? Being called or calling someone demeaning names in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
 * Verbal Abuse
-? The act of verbally accosting or being verbally accosted with derogatory terms pertaining to sex, or in the effort to demean, degrade or otherwise humiliate another character, or occasionally to elicit sexual stimulation from abuse.
+? The act of verbally accosting or being verbally accosted with derogatory terms often pertaining to sex or appearance, with a focus on demeaning, degrading, or otherwise humiliating another person.  May elicit sexual stimulation from abuse.
 
 #Touch & Stimulation
 (Actor, Subject)
-* Ass worship
-? Gratuitous acknowledgment of one's partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Cock/Pussy worship
-? Gratuitous acknowledgment of one's partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Electro stimulation
-? The use of sex toys that carry an electrical current; sometimes painful.
-* Foot play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
-* Sensation play
-? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be so limited. Sight, taste, and hearing can also be included in sensation play.
-* Tickling
-? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
-
-#Misc. Fetish
-(Giving, Receiving)
+* Ass Worship
+? Gratuitous acknowledgment of a partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
+* Cock/Pussy Worship
+? Gratuitous acknowledgment of a partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
 * Breast/Nipple Worship
-? Gratuitous acknowledgement of one's partner's chest or nipples, either verbal and/or physical, or receiving such actions.
-* Breath play
-? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
+? Gratuitous acknowledgement of a partner's chest or nipples, either verbal and/or physical, or receiving such actions.
+* Muscle Worship
+? Gratuitous acknowledgment of someone's muscular physique, either verbal or physical.
+* Electro Stimulation
+? The use of devices that carry an electrical current; sometimes painful.  Dangerous when performed carelessly.
+* Foot Play
+? The act of incorporating the feet or hind paws into a sexual encounter, including but not limited to the worshipping of feet, receiving sexual gratification from the sight or smell of feet, and/or humping feet, sometimes to the point of orgasm.
+* Sensation Play
+? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be. Sight, taste, and hearing can also be included in sensation play. Sensory deprivation is often a tool used to heighten other senses.
+* Tickling
+? The act of tickling and/or being tickled in a sexual context; or, receiving sexual stimulation from such an act.
+
+#Misc. Kinks
+(Giving, Receiving)
 * Breeding
 ? Entails the act sexual intercourse for the sole purpose of inducing pregnancy and/or producing offspring.
+* Musk
+? Most often roleplay where participants are exceptionally musky; typically implies pheromones derived from the crotch, which may or may not lack hygiene to any degree.
 * Crotch Sniffing
-? The act of receiving pleasure from inhaling the scent of the crotch, or receiving such actions. Emphasis is often placed on the musk and/or pheromone-related properties of the scent.
-* Cuckold / Cuckquean
-? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP.
+? The act of receiving pleasure from inhaling the scent of the crotch, or receiving such actions.  Emphasis is often placed on the musk and/or pheromone-related properties of the scent.  
 * Double Penetration
 ? The act of penetrating a single character with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
 * Extreme Tightness
-? Engaging in an RP in which at least one character exhibits exceptional tightness in his or her anus, vagina or throat; sometimes implies pain, exceptionally large penetrations and/or inexperience.
+? An experience where at least one participant exhibits exceptional tightness in their anus, vagina, or throat.  This may imply pain, exceptionally large penetrations, and/or inexperience.
 * Feminization
-? Feminization is a type of role play that involves imposing traditionally female attributes onto a submissive male partner. It may also involve an adoption of traditionally feminine behaviors and mannerisms.
+? Feminization is a type of role play that involves imposing traditionally female attributes onto a submissive male partner.  It may also involve an adoption of traditionally feminine behaviors and mannerisms.
 * Fisting
-? The act of placing one's hand(s) and/or arm(s) into a vagina, or receiving such actions.
+? The act of placing one's hand(s) and/or arm(s) into a vagina or anus, or receiving such actions.  Requires training and experience or injury is likely.
 * Food Play
-? The act of incorporating food into the sexual context of an RP, including but not limited to force-feeding, use of whipped cream or chocolate sauce or receiving sexual gratification from the act of eating; typically implies incredible and/or unrealistically large amounts of food being consumed.
-* Foot Play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
-* Foreskin Worship
+? The act of incorporating food into a sexual context, including but not limited to force-feeding, use of whipped cream or chocolate sauce, or receiving sexual gratification from the act of eating; occasionally implies incredible and/or unrealistically large amounts of food being consumed.
 * Gangbang
-? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.
-? Gratuitous acknowledgment of one's partner's foreskin, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Genital/Nipple Piercings
-? Engaging in an RP in which at least one character has piercings that are located on the nipples or sexual areas of the body; typically cock piercings.
-* Muscle Worship
-? Gratuitous acknowledgment of someone's muscular physique, either verbal or physical.
-* Musk
-? Refers to an RP involving characters that are exceptionally musky; typically implies pheromones derived from the crotch, which may or may not lack hygiene to any degree.
+? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.  Gangrape is the non-consentual version of a gangbang.
 * Onomatopoeia
 ? Engaging in an RP, or getting turned on by an emphasis on exaggerated descriptions of sexual noises in a roleplay, usually described with onomatopoeia, words that seek to duplicate the sounds they describe. Often refers to fluid noises such as: slosh, splurt, squirt, gurgle, splortch, or others.
 * Pregnancy
-? Fetishizing a pregnant character
+? Fetishizing a pregnant character. 
 * Queefing
-? The sounds of air expulsion via intercourse.
+? The sounds of air expulsion via intercourse.  Pro Tip: May mean your partner is tired or unprepared -- try more foreplay next time.  
 * Sexual Exhaustion
-? Engaging in an RP in which at least one character's genitals and/or orifice(s) endure pain due to exceptionally arduous sex or sex of an exceptional duration; implies continuing despite such.
+? Engaging in intercourse where at least one participant's genitals and/or orifice(s) endure pain due to exceptionally arduous sex or sex of an exceptional duration; implies continuing despite such discomfort.
 * Sexual Frustration
-? Engaging in an RP in which at least one character is exceptionally desperate or horny and is often willing to eschew standard inhibitions in order to receive sexual stimulation.
+? A situation where one person is exceptionally desperate or horny and is often willing to eschew standard inhibitions in order to receive sexual stimulation.
 * Shaving
-? Engaging in the removal of fur/hair from a participant in an RP by the means of shaving.
+? The act of removing hair (or fur) from a participant by means of shaving or waxing.  
 * Slob
-? Characters without hygiene or uncaring of typical standards for cleanliness due to laziness, personal choice, or otherwise; may emphasize and derive pleasure from laziness or from actions linked with a lack of hygiene.
+? People without hygiene or uncaring of typical standards for cleanliness due to laziness, personal choice, or otherwise.  May emphasize and derive pleasure from laziness or from actions linked with a lack of hygiene.
 
-
-
-# Cum-related
+#Cum-related
 (General)
+* TEMPORARY::ADD THESE::time stop, stuck, distension
 * Bukkake
 ? The act of a group of at least two people ejaculating directly onto the face and/or body of a single recipient, or receiving such actions.
 * Creampie
@@ -645,7 +636,7 @@ Degradation
 * Stomach Bulging
 ? Engaging in an RP in which a character's stomach will bulge, either due to an exceptionally large insertion (often taking the shape of such), due to eating an exceptionally large amount of food or as a localized form of inflation from any liquid or gas.
 
-# BDSM & Related
+#BDSM & Humiliation
 (General)
 * Apparatuses
 ? The use of complex objects with moving parts in order to bondage, immobilize or otherwise sexually gratify and/or incapacitate a character, in the sexual context of an RP.
@@ -712,7 +703,7 @@ Degradation
 * Wax Play
 ? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
 
-# Watersports / Scat
+#Watersports & Scat
 (General)
 * Bathroom Control
 ? A situation in which a character controls when, how and where another character may use the bathroom in any fashion, typically as a form of control or degradation.
@@ -800,7 +791,7 @@ Degradation
 * Hair Pulling
 ? The act of pulling or tugging on another character's hair, or being the recipient of such.
 
-# Blood & Gore / Torture / Death
+#Gore, Torture, and Death
 (General)
 * Abrasions
 ? Engaging in a situation in which at least one character will receive abrasions, defined as scrapes that are at their mildest in severity capable of causing bleeding; typically administered via rough or coarse objects, such as sandpaper or cement.
@@ -839,7 +830,7 @@ Degradation
 * Swallowing Blood
 ? The act of orally consuming blood.
 
-#Medium
+#Media
 (General)
 * Physical Reality
 ? You filthy degenerate.
