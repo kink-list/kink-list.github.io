@@ -1,323 +1,580 @@
-#Bodies
-(General)
-* Skinny
-? Expresses an interest in characters that are waifish, thin, or slender.
-* Chubby
-? Expresses an interest in characters that are well-rounded, full in form, and pudgy.
-* Small breasts
-? Expresses an interest in breasts that are particularly small, sometimes to the point of appearing absent.
-* Large breasts
-? Expresses an interest in breasts that are particularly large.
-* Small cocks
-? Expresses an interest in cocks that are below average size.
-* Large cocks
-? Expresses an interest in cocks taht are above average size.
-* Small butts
-? Expresses an interest in butts that are particularly small.
-* Big Butts
-? Expresses an interest in butts that are particularly large.
+#Body Types
+(Partner)
+* Apple/Oval Shape
+? Expresses an interest in partners that have a round shape or are thicker around the middle.  
+* Pear/Triangle Shape
+? Expresses an interest in partners that have a wider lower body structure and a thinner upper body structure.
+* Hourglass Shape
+? Expresses an interest in partners that have a wider overall body structure but a slim waistline.  
+* Inverted Triangle Shape
+? Expresses an interest in partners that have a wider upper body structure that tapers to a thinner lower body structure.  
+* Rectangle Shape
+? Expresses an interest in partners that have a body structure that remains even and does not taper going up or down.  
+* Slender Partners
+? Expresses an interest in partners that are waifish, thin, or slender.
+* Very Skinny Partners
+? Expresses an interest in partners that are exceptionally or unhealthily thin or skinny.
+* Chubby Partners
+? Expresses an interest in partners that are well-rounded, full in form, or pudgy.
+* Very Fat Partners
+? Expresses an interest in partners that are exceptionally or unhealthily overweight or obese.
+* Muscular Partners
+? Expresses an interest in partners that are powerfully-built and/or athletic.
+* Very Muscular Partners
+? Expresses an interest in partners that are exceptionally muscular or toned.
+* Voluptuousness
+? Expresses an interest in partners with wider than average hips, large buttocks, and large breasts.
+
+#Body Part Sizes (Partner)
+(Small, Large)
+* Asses
+* Cocks
+* Balls
+* Breasts
+* Feet
+* Hands
+* Nipples / Areolae
+
+#Accessories & Styles
+(Partner)
+* Glasses
+? A preference for people who wear glasses.
+* Non-Sexual Piercings
+? Attraction to or engagement with a partner who has piercings on parts of their body that are not of a sexual nature, such as but not limited to tongue, ears, belly button etc.
+* Genital/Nipple Piercings
+? Piercings that are located on the nipples, clitoris, penis, or other sexual areas of the body.
+* Pubic Hair (Natural)
+? Expresses an interest in pubic hair, however it naturally grows.
+* Pubic Hair (Trimmed)
+? Expresses an interest in carefully groomed pubic hair.  
+* Shaved or Waxed Pubic Area
+? Expresses an interest in partners that have fully removed their pubic hair.
+* Tattoos (Meaningful)
+? Expresses an interest in tattoos that hold significant meaning for the owner.
+* Tattoos (Fun)
+? Expresses an interest in tattoos that are fun or silly, but not degrading.
+* Tan Lines
+? Expresses an interest in the contrast between tan and pale skin, typically from a swimsuit or time spent outdoors.
 
 #Clothing
 (Self, Partner)
-* Clothed sex
-? Engaging in an RP where you and/or your partner are not undressed during sexual interaction.
-* Lingerie
-? Expresses an interest in the inclusion of lingerie in the sexual context of an RP, or an interest in characters wearing such.
-* Stockings
-? Expresses an interest in the inclusion of stockings in the sexual context of an RP, or an interest in characters wearing such.
-* Heels
-? Expresses an interest in the inclusion of high heeled shoes in the sexual context of an RP, or an interest in characters wearing such.
-* Leather
-? Expresses an interest in the inclusion of leather clothing in the sexual context of an RP, or an interest in characters wearing such.
+* Cross-Dressing
+? Wearing the clothes of the gender opposite to the wearer.
+* Corsetry
+? The act of wearing a corset, sometimes to the extent of changing the shape and size of one’s body. 
+* Endytophilia (Clothed Sex)
+? Engaging in sex while clothed.
+* High Heels
+? Relating to general attraction or to use of high heeled shoes in a sexual context.  
+* Boots
+? Relating to general attraction or to use of boots in a sexual context.  
 * Latex
-? The usage of latex and/or rubber material worn as clothing
-* Uniform / costume
-? Expresses an interest in the inclusion of uniforms or costumes in the sexual context of an RP, or an interest in characters wearing such.
-* Cross-dressing
-? Engaging in an RP where one or more characters dress in the clothes of the gender opposite to their own.
+? The usage of latex and/or rubber material worn as clothing.  
+* Leather
+? Relating to general attraction or to use of leather clothing in a sexual context.  
+* Lingerie
+? Relating to general attraction or to use of lingerie in a sexual context.  
+* Masks
+? The use of masks (surgical, masquerade, etc.), typically worn to conceal the wearer's identity.
+* Stockings
+? Relating to general attraction or to use of long stockings in a sexual context.  
+* Body Paint
+? Expresses an interest in the inclusion of paint on one's body in a sexual context.
+* Rope/Harness
+? Relating to general attraction or to use of non-binding ropes, straps, or harnesses in a sexual context.  
+* Uniform
+? Relating to general attraction or use of a military, police, medical, or other professional uniform in a sexual context.
+* Costume (Partial)
+? Relating to attraction to or use of ears, tail, wings, or similar accessories in a sexual context. 
+* Costume (Full)
+? Relating to general attraction or to use of a full outfit, typically a furry costume or similar, often in a sexual context.  
 
-#Roles & Groupings
+#Species Interests
+(General)
+* Humans
+* Elves
+? Lithe, long-lived humanoids.  Often highly intelligent and with great dexterity.  This covers all elven types.  
+* Reptilian Humaniods
+? Any of many races of lizard-like or snake-like humanoid creatures.
+* Catlike Humanoids
+? Sometimes covered completely in fur, sometimes just a girl with cat ears and a tail.  Keep away from skooma.
+* Doglike or Wolflike Humanoids
+? Sometmies covered completely in fur, sometimes a chest-up transformation, occasionally just big floppy ears.  Loves scritches.
+* Foxlike Humanoids
+? Includes Kitsune, Inari, Youko, cute girls with fluffy ears and tails, and Maid Marian from the 1973 Disney animation of Robin Hood.  
+* Demons and Succubi
+? Humanoids that often have horns and wildly varying appearances.  Some are sexy by nature, others are horrific.  
+* Vampires
+? Undead that drink blood.  Sunlight may have interesting effects.
+* Werewolves
+? The OG furries of the world.  Carnal.  Moonlight may have interesting effects.
+* Monstrous Humanoids
+? Horrific but still humanlike creatures and abominations.  
+* Non-Humanlike Monsters
+? Scary stuff that doesn't look at all like a person.  
+
+#Roles
 (Self, Partner)
 * as Male
 * as Female
-* as Femboy
-* as Futa
-* as MtF trans
-* as FtM trans
-* as male & female
-* as multiple males
-* as multiple females
-* as multiple males & females
+* as Trans (Male to Female)
+* as Trans (Female to Male)
+* as Asexual or Non-Gendered
+? Non-Gendered people do not identify with any particular gender.
+* as Gender Fluid
+? Gender fluid people may identify as different genders at different times.  
+* as Futanari or Hermaphrodite
+? Futanari is a hermaphrodite form depicting a person with breasts and a penis.  Testicles and/or a vagina may be included.  
 * as Dominant
 * as Submissive
-* as Switch
-* as Celebrity
+* as Multiple Participants
+? Expresses an interest in engaging two or more sexual partners at the same time.  For Self, this implies being on the giving side of a gangbang.
+* as Twins or Clones
+? Expresses an interest in engaging two or more sexual partners who are identical, either clones or siblings.  
 
-#General
+#General Kinks
 (Giving, Receiving)
-* Romance / Affection
-? Displaying or expressing love or strong affection, passion, either during love making or during normal scenes.
+* Accidental Stimulation
+? Refers to accidental physical stimulation and situations that arouse adrenaline and cause arousal, regardless of whether public or private.
+* Biting
+? The act of biting or being bitten; sometimes painful, sometimes playful.
+* Condoms
+? The use of condoms in any way; typically refers to a preference for the use of condoms during penetration, but may also refer to condom play, in which a condom (typically filled), is used as a sex toy or for degradation; or, the filling of condoms with fluids, such as semen.
+* Consensual
+? A preference for sexual interactions between partners to be fully consenting.
+* Cuddling
+? People showing affection through hugging, snuggling, and other forms of physical closeness.
+* Dirty Talking
+? The act of speaking in a typically explicit manner to provoke sexual stimulation from a participant, sometimes one's self; often in the context of seduction or foreplay.
+* Docking
+? Phallic insertion into another participant's foreskin and/or sheath (for non-human parties).
+* Double Penetration
+? The act of penetrating someone's anus and vagina at the same time, including but not limited to penetration via penis, sex toys, fist, etc.
+* Double Penetration (Vaginal)
+? The act of penetrating a vagina with two objects at once, including but not limited to the penis, sex toys, fist, etc.
+* Edging
+? Keeping on the edge of climax without orgasm.  
+* Ear Play
+? Interest in acts where ears play an important role. This can involve kissing, sucking, caressing, breathing/whispering into, pulling, or any other kind of interaction focusing on the ears.
+* Exoticism
+? Fetishizing members and elements of Far Eastern culture (Japan, China, etc.), including fictional worlds inspired by these locations. A preoccupation with Geishas is common in the Western world, for example.
+* Femboys
+? Effeminate, girly males.
+* Tomboys
+? Females who behave or present themselves in a masculine manner.
+* Flexibility/Contortionism
+? Exceptional or unrealistic flexibility, typically used to achieve extremely difficult or impossible sexual positions to derive maximum stimulation.
+* Face-sitting
+? A sexual practice where someone sits on another's face with their buttocks or genitals, causing the person to be smothered, sometimes to the point asphyxiation; often done as form of forcing oral gratification.
+* Facials
+? The act of cumming directly onto someone's face. 
+* Frotting
+? The act of at least two penises being ground against each other for sexual gratification.
+* Frottage
+? The act of rubbing while clothed for sexual stimulation.  
+* Gender Transformation
+? Changes to sex or gender, sometimes willing, sometimes unwilling. Encompasses both magical and sci-fi changes, as well as more realistic gender reassignment.
 * Handjob / Fingering
 ? Sexual stimulation by direct, physical contact of the hands or fingers to the genitals.
-* Blowjob
-? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals
-* Deep throat
-? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
 * Swallowing
 ? The act of orally consuming semen, either directly or indirectly from a penis.
-* Facials
-? The act of cumming directly onto one's face
-* Cunnilingus
-? Sexual stimulation by direct, physical contact of the mouth or tongue to female genitals
-* Face-sitting
-? A sexual practice where someone sits on another character's face with their buttocks or genitals, causing the person to be smothered, sometimes to the point asphyxiation; often done as form of forcing oral gratification.
-* Edging
-? Keeping on the edge of climax without orgasm
+* Hotdogging
+? The act of placing a penis between the ass cheeks and pressing them against it -- sliding it between them in order to reach sexual satisfaction.
+* Ice / Cold Play
+? The use of ice in any fashion during sex, typically as a form of erotic foreplay.
+* Intelligent Partners
+? Exhibits a preference for partners that have particularly high levels of intelligence, wit, cunning and manipulation skills.
+* Unintelligent Partners
+? Exhibits a preference for people that exhibit below-average intelligence, often low enough to make them easy to manipulate; this includes everything from air-headed bimbos to large, animalistic brutes.
+* Bimbofication
+? The process of making someone into a bimbo (an airheaded slut) or being turned into a bimbo themselves.  Occasionally related to transformation, or used as a punishment for a bratty sub. 
+* Kissing
+? Expresses an interest in kissing or being kissed by another person, with or without tongue.
+* Leather
+? The use of leather, often in a bondage situation; typically includes leather garments or equipment associated with dominants, as well as harness gear.
+* Licking
+? The act of one person licking another. May or may not be sexual; when sexual, often in areas of the body that are sexual, including but not limited to the nipples, breasts, anus, genitalia etc.
+* Masturbation
+? The act of stimulating oneself sexually, usually utilizing physical contact from the hands or fingers to the genitals.
+* Non-Transformative Body Modification
+? General kink for anything that changes the appearance of a body, including tattoos, piercings, saline injections, lip sewing, etc.  
+* Navel Play
+? Engaging in sexual acts involving pleasure derived from a partner's bellybutton; often refers to licking or tonguing of the navel.
+* Photography/Videotaping
+? The act of visually recording a scene amongst participants, including as a form of humiliation, exhibitionist fetishism, and/or blackmail/extortion.
+* Romance / Affection
+? Displaying or expressing love or strong affection, passion, either during love making or during non-sexual interactions.  Relates to interpersonal bonds.
+* Smoking
+? Refers to the act of smoking and/or receiving pleasure from an aspect of smoking.
+* Stripping
+? The act of specifically removing clothing or watching a participant do such, typically as a form of seduction, but also as a form of punishment.
 * Teasing
-? Refers to extended scenes of foreplay prior to explicit, sexual intercourse, which may be physical and/or verbal, typically to arouse one's partner to the point of sexual frustration or desperation.
+? Teasing may be physical and/or verbal foreplay, typically to arouse one's partner to the point of sexual frustration or desperation.  
+* Tickling
+? The act of tickling and/or being tickled in a teasing or sexual way; or, receiving sexual stimulation from such.
+* Tribadism / Scissoring
+? Form of non-penetrative sex in which a person rubs their vagina against a same-sex partner's body for sexual stimulation, in most cases vaginal-to-vaginal contact through scissoring.
+* Underwear
+? An affinity for underwear, either being worn on one's self, one's partner(s), or by itself; often involves stimulation from the scent or tactility of the underwear, but may also refer to using underwear as a sex toy in any way.  Differs from the lingerie appearance preference in that this is more targeted to the underwear itself.
+* Parthenophilia (Virginity)
+? A preference for virginal partners.
+* Vanilla Sex
+? Sex which does not involve such elements as BDSM, kink, or fetish activities.  
 
-#Ass play
+#Oral Sex
+(Giving, Recieving)
+* Blowjob
+? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals.
+* Cunnilingus
+? Sexual stimulation by direct, physical contact of the mouth or tongue to female genitals.
+* Deepthroating
+? The act of penetrating the mouth of another person to the depths at which the penis or insertion enters the back of the mouth. 
+* Face-Fucking
+? Refers to the act of penetrating the mouth of another person with a similar technique as fucking a vagina or anus, typically by bracing the mouth or skull and thrusting back and forth; often rough.
+* Throat Penetration
+? The act of penetrating the mouth of another person to the depths at which the penis or insertion enters the back of the mouth cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
+
+#Ass Play
 (Giving, Receiving)
-* Anal toys
-? Refers to the inclusion of anal penetration with sex toys, including but not limited to dildos, vibrators, anal eggs, anal beads, etc.
-* Anal sex/pegging
-? Being penetrated by a partner, with a penis or strap-on
+* Anal Sex/Pegging
+? Being penetrated by a partner, with a penis or strap-on. 
+* Anal Virginity
+? Anal sex with including someone who has never been anally penetrated before.
+* Anal Training
+? Perparing and/or acclimating someone to an anal insertion, the size of which they would not otherwise be comfortable with or capable of accepting
+* Anal Toys (General)
+? Refers to the inclusion of anal penetration with sex toys, including but not limited to dildos, vibrators, anal eggs, anal beads, butt plugs, etc.
+* Anal Toys (Under Clothes)
+? Deriving sexual enjoyment or excitement from the use of anal toys while performing everyday activities.  Typically plugs worn under clothes while in public.
+* Double Penetration (Anal)
+? The act of penetrating an anus with two objects at once, including but not limited to the penis, sex toys, fist, etc.
 * Rimming
 ? The act of giving oral stimulation to a partner's anus, by the means of licking and/or penetrating the recipient's anus with the tongue.
-* Double penetration
-? The act of penetrating a single character's anus with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
-* Anal fisting
-? The act of inserting one's hand(s) and/or arm(s) into one's partner's anus, or being the recipient of such acts.
 
-#Restrictive
+#Restriction
 (Self, Partner)
-* Gag
-? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
-* Collar
-? Wearing a collar around the neck
-* Leash
-? Being lead around on a leash
+* Apparatuses
+? The use of complex objects with moving parts in order to bind, immobilize, or otherwise sexually gratify and/or incapacitate someone.
+* Blindfolds
+? The use of blindfolds or other objects to obscure the vision of at least one participant in a sexual context.
+* Collaring
+? Wearing a collar around the neck.  
+* Leashing
+? Being led around on a leash. 
+* Gagging (Mouth Restraint)
+? The act of lodging an object in someone's mouth to prevent speech and often to force them to breathe through their nose.
+* Hand Cuffs
+? The use of hand cuffs to partially immobilize someone, or to restrain them by connecting them to an immobile object.
+* Imprisonment / Caging
+? The act of placing another person in a cage, or being placed in a cage, or similar confining device.
+* Bondage (Light/Moderate)
+? The use of bondage that is mild or moderate in either 1) the position in which it causes the bound person to be in; 2) the duration for which the person will be in bondage; 3) the level of discomfort caused by the bondage; or 4) the amount of immobilization that will occur due to the bondage.
+* Bondage (Extreme)
+? The use of bondage that is extreme in either 1) the position in which it causes the bound person to be in; 2) the duration for which the person will be in bondage; 3) the level of discomfort caused by the bondage; or 4) the amount of immobilization that will occur due to the bondage.  Note: In reality, it is easy to cause permanent nerve damage by tying someone with bonds that are too thin, too tight, or in the wrong location.  Study up!  <3
+* Asphyxiation / Breath Play
+? A situation in which at least one participant will have physical control over the breathing habits of another participant, often by either intermittent choking and/or due to the penetration of the throat.  Devices may also be used to this effect.  Extremely dangerous when performed carelessly, potentially resulting in brain damage or death.
 * Chastity
-? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
-* Bondage (Light)
-? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Bondage (Heavy)
-? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
+? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or wearing a device that prevents it.
+* Small Spaces
+? Claustrophilia is the opposite of claustrophobia - arousal related to confinement in small spaces.  May occur through use of boxes, bags, closets, under beds, etc.  
 * Encasement
-? one’s whole body being wrapped up like a mummy in a latex suit, sleepsack, or other fetish gear for the purposes of sexual gratification.
+? Wrapping the entire body up like a mummy in a latex suit, sleepsack, or other fetish gear for the purposes of sexual gratification.  May also include being fully trapped within sand, dirt, concrete, etc.
+* Suspension
+? Engaging in activities (typically sexual) that include suspension apparatuses and/or rope toys, which typically will suspend one person above a bed or the floor; often uncomfortable.  Use of hooks placed through the skin of the suspended person may induce a sensation of weightlessness or a meditative state after some time.  
 
 #Toys
 (Self, Partner)
 * Dildos
-? an object shaped like an erect penis used for sexual stimulation.
+? An object shaped like an erect penis used for sexual stimulation. 
 * Plugs
-? a sex toy of a type designed to be inserted into the rectum.
-* Vibrators
-? a vibrating device used for sexual stimulation.
+? A sex toy of a type designed to be inserted into the rectum.
 * Sounding
 ? The act of inserting metal rods into a male or female's urethra, or receiving such actions; technically implies rods that resonate and/or vibrate in response to a form of stimulation, but does not necessarily mean so.
+* Strap-Ons
+? A form of harness that holds one or more dildos, enabling a person with no penis to thrust and penetrate someone else as though they did.
+* Vibrators
+? A vibrating device used for sexual stimulation.  May take the form of a dildo, a clitoral stimulator, small insertable devices, large wands, etc.
+* Remote-Controlled Vibrators
+? A vibrator that can be remotely controlled, typically by someone's sexual partner.  May or may not be used secretly in public.
 
 #Domination
-(As Dominant, As Submissive)
-* General Dom / General Sub
-? Catchall for Dominant/Submissive Activities.
-* Domestic servitude
+(Self As Dom, Self As Sub)
+* General Dominant/Submissive
+? Catch-all for Dominant/Submissive Activities.
+* Domestic Servitude
 ? Being served by a butler, waitress, chauffeur, maid or housekeeper, or serving as one.
-* Slavery
-? Serving as the dominant's beck and call, or recieving such service, without choice.
-* Pet play
-? Petplay is a in role in which the focus is on the sub entering the altered mind space of a different species, often a dog, cat, or horse.
+* Bratty/Uppity
+? Expresses an interest in engaging in roleplay in which the submissive and/or bottom person is combative and disobedient in any number of ways.
 * DD/lg, MD/lb
-? Daddy or Mommy Dom/ Littly Girl or Boy. The daddy/mommy is the more dominant half of the relationship, the little is the more submissive.
+? Daddy or Mommy Dom / Little Girl or Boy. The daddy/mommy is the more dominant half of the relationship, the little is the more submissive.  Often manifests as nurturing or playing with childish toys, doing childish things.  Does not relate to actual age gaps, only roleplayed age gaps.  
 * Discipline
 ? The use of reinforcement (rewards and/or punishments) in order to train a submissive to obey the various commands of a master.
-* Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
-* Forced orgasm
-? A forced orgasm is consensual BDSM or kinky sexual play whereby a person consents to be forced to orgasm in a way that is beyond their control.
-* Orgasm control
+* Immobilization
+? Engaging in an act in which at least one person will be entirely, physically immobilized by any means, often heavy bondage or mummification; typically involved in BDSM play.  Has overlap with Encasement, but may also leave skin exposed.  
+* Orgasm Control
 ? Refers to the dominant being in control of when the submissive achieves orgasm, either by physical means or by command; typically involves domination and/or excessive teasing and edging; orgasm may be completely denied.
-* Orgasm denial
-? Refers to the dominant denying the submissive orgasm.
-* Power exchange
+* Power Exchange
 ? A relationship with service at the core.
+* Master/Pet
+? Engaging in activities in which a domination/submission relationship is played between at least two people, and in which the submissive takes on the role of a pet, entering the altered mind space of a non-sapient species (often a dog, cat, or horse).  This is typically a training-based scenario with positive reinforcement over negative reinforcement, as well as the inclusion of affection.
+* Master/Slave
+? Engaging in activities in which a domination/submission relationship is played between at least two people, and in which the submissive takes on the role of a slave.  Typically requires the slave to be at the dominant's beck and call, accepting any and all commands, often involving non-sexual forms of abuse and using negative reinforcement.
 
-#No consent
+#Non-Consent
 (Aggressor, Target)
-* Dubious consent
-? situations where one partner's consent is in question, though not outright rape.
-* Non-con / rape
-? taking/being taken against one's will, often through force
-* Blackmail / coercion
-? Refers to the inclusion of Coercion and/or Blackmail in the context of the story arc of an RP, often in the form of a semi-consensual means of receiving sex from a partner.
+* Blackmail / Coercion
+? Refers to the inclusion of coercion and/or blackmail, often in the form of a non-consensual means of receiving sex from a partner, where although they willingly agree to do something, they do not see the situation as presenting an actual choice. 
+* Consentual Non-Consent
+? Situations where one or both parties have given prior consent for activities that may appear to be or actually involve non-consent. Rape play is a common form.  Safe word strongly recommended.  
+* Dubious Consent
+? Situations where one partner's consent is in question, though not outright rape.  Overlaps with many other forms of non-consent.
+* Intoxication (Drugs/Alcohol)
+? The use of either illicit or prescribed drugs, typically to disorient or otherwise incapacitate someone, or to elevate the sensations of sex.
 * Kidnapping
-? The act of abducting a character in an RP for the purpose of abusing, often sexually, or being abducted for such reasons; often implies indefinite imprisonment.
-* Drugs
-? The use of illicit drugs in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Alcohol
-? The use of alcohol in the context of an RP, typically to disorientate or otherwise mentally incapacitate a character, or to elevate the sensations of sex.
-* Sleep play
-? Engaging in sexual acts with an unconscious/asleep partner
+? The act of abducting someone for the purpose of abusing, often sexually, or being abducted for such reasons; often implies indefinite imprisonment.
+* Rape
+? Taking/being taken against one's will, often through force.  
+* Somnophilia (Sleeping Partners)
+? Engaging in sexual acts with an unconscious/asleep partner.
 
 #Taboo
 (General)
-* Incest
-? Engaging in an RP in which at least two characters will be related
-* Age Gap
-? Refers to scenes in which there is a signifigant gap in the ages of characters.
-* Interracial
-? Scenes based on interracial interactions without relying on racial stereotypes.
-* Raceplay
-? Scenes based on racial stereotypes or racism, including scenes set in racist settings.
+* Age Play
+? Refers to an interest in sexual encounters in which there is a signifigant gap in the ages of participants.  
+* Infantilism
+? A specific type of age play where someone plays an infant/baby. This can involve pacifiers, diapers, bottles, etc. A second person may act as a nanny or parent.
+* Acrotomophilia (Amputees)
+? Sexual acts in which at least one person has at least one limb removed or otherwise missing.  People with all limbs removed are also called "nuggets".  
 * Bestiality
-? Refers to a sapient character engaging in a sexual act with a non-sapient animal, or playing a non-sapient animal in an RP and being engaged by a sapient character.
-* Necrophilia
-? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
-* Cheating
-? Where one or both partners are being unfaithful to significant others.
-* Exhibitionism
-? Engaging in an RP in which the setting is of a public nature; typically used in conjunction with exhibitionism and/or humiliation.
+? Refers to a sapient being engaging in a sexual act with a non-sapient animal, or roleplaying a non-sapient animal and being engaged by a sapient being.
+* Cheating, Cuckold, and Cuckquean
+? Where one or both partners are being unfaithful to significant others.  Includes Netorare (NTR) and cuckolding, and often includes the connotation of submission, helplessness, or weakness on the part of the party being cheated on.  May in some cases be a show of dominance or revenge by the cheater.  
+* Exhibitionism / Agoraphilia
+? Deriving sexual gratification from being seen performing or performing a sexual act (or being indecent such as with nudity) in a public location; often used in conjunction with voyeurism, submission, and/or humiliation.  Includes flashing.
+* Hypnotism / Mind Control
+? Includes both subtle suggestion and total mind control. 
+* Incest
+? Sexual acts in which two people are blood relatives.  
+* Interracial
+? Sexual acts with interracial participants, such as a black man with a white woman.  Does not necessarily rely on racial stereotypes.
+* Interspecies (not Bestiality)
+? Sexual acts with partners of another sapient species.  Only possible within the realms of fiction.  So far.
+* Raceplay
+? Acts or stories based on racial stereotypes or racism, including scenes set in racist settings.  Actual racism is not raceplay, that's... just racism.  
+* Necrophilia (Dead Partners)
+? The act of having sexual intercourse with a dead body or deriving sexual pleasure from others doing so (including in media). 
 * Voyeurism
-? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit. 
 
-#Surrealism
+#General Surrealism
 (Self, Partner)
-* Futanari/Futa
-? characters who have an overall feminine body, but have both female and male genitalia (although testicles are not always present)
+* Shrinking
+? Reducing in body size.
+* Growth
+? Growing in body size by magical, medicinal, or otherwise fantastic means.
+* Male Pregnancy
+? The act of a man becoming pregnant, or deriving sexual gratification from a situation in which at least one man is pregnant.
+* Oviposition
+? The laying or depositing of eggs, often via a tube.  May refer to media in which a being will lay eggs through an orifice, sometimes after having the eggs implanted in them by another creature.
+* Microphilia (Small Partners)
+? Expresses an interest in participants that are impossibly and unrealistically small.
+* Macrophilia (Large Partners)
+? Expresses an interest in participants that are incredibly and unrealistically tall or large.
 * Furry
-? Anthropomorphic animal characters.
-* Vore
-? The act of physically consuming another character
-* Transformation
-? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
+? Anthropomorphic animals.  (Animals that look like people, or people that look like animals.)
+* Nipple Penetration
+? The act of penetrating the nipple, often deep into the breast, with an object such as a finger, sex toy, penis, etc, or receiving such actions.
 * Tentacles
-? Engaging in an RP in which self-sentient tentacles or tentacle-like appendages will penetrate a character; often implies multiple penetration.
-* Monster or Alien
-? Various types of monsters, Extraterrestrials, and aesthetically challenging characters.
-* Ghost
-? The formerly living, not currently in posession of a body
+? Deriving sexual gratification from the action of tentacles or tentacle-like appendages penetrating a sentient being; often occurs with multiple penetration and is rarely consentual.
+* Transformation
+? The act of altering the physical characteristics of a participant, possibly including one's self, by magical, chemical, or advanced technological means.  Typically excludes things like tattoos, piercings, etc.
 
-#Fluids
+#General Fluids
 (General)
-* Blood
-? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
-* Watersports
-? Pertains to the inclusion of urine, or the expelling of urine, in any form, in the sexual context of an RP.
-* Scat
-? Pertains to the inclusion of fecal matter or the expelling of fecal matter in any form in the sexual context of an RP.
+* Aquaphilia
+? Sexual interest related to water and having sex in or around water.  This can extend to a kink for swimwear or posing in water even if it doesn’t involve sexual activity.
 * Lactation
-? The act of producing milk from one's breasts, or engaging in sex with a character that produces milk from one's breasts, typically in response to sexual stimulation, and any play that will emanate thereof.
-* Diapers
-? A situation in which at least one character will wear a diaper; typically implies that the diaper will be soiled with urine and/or fecal matter, usually in conjunction with age play or infantilism, but sometimes in conjunction with humiliation.
-* Cum play
-? Any number of situations focused on playing with cum.
-* Saliva/Spit
-? Sexual play involving saliva or Spit
+? The act of producing milk from one's breasts, or engaging in sex with a partner that produces milk from their breasts.  Often occurs in response to sexual stimulation or direct milking, and includes any play that will emanate thereof.  Includes milking machinery.  
+* Messy
+? Engaging in sexual activities in which a large amount of liquids, which may be bodily fluids, will be involved.  For instance, mud, food, snot, or slime.
+* Saliva
+? Interest in activities that prominently include saliva. This may refer to excessive secretion and great appreciation of it, drooling, etc.
+* Sweat
+? The act of sweating and/or receiving sexual gratification from the appearance, taste, scent and/or tactility of sweat.
 
 #Degradation
 (Giving, Receiving)
-* Glory hole
-? Servicing a partner or recieving service from a partner with a physical barrier between the participants
-* Name calling
-? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
+* Anonymous Sex
+? Sexual activity where one or more parties is unaware of another person's identity, such as through the use of a gloryhole.  
+* Gloryhole
+? Servicing a partner or recieving service from a partner with a physical barrier between the participants.  
+* Begging
+? The self-abasing act of pleading, as a form of submission.
+* Cock Slapping
+? The act of using one's penis to slap one's partner (or being slapped by a penis), often to humiliate or debase a bottom prior to or during fellatio.
+* Forced Nudity
+? The act of either forcing someone to be nude or being forced to be nude by another person, often in public situations.  Often a component of Forced Exhibitionism or Public Humiliation.  
+* General Humiliation
+? Intentional embarrassment, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more emotionally targeted form of degradation.
+* Public Humiliation
+? One or more people engaging in activities in a public setting for the purposes of humiliating one or more people.  May or may not be sexual in nature.
+* Extreme Humiliation
+? Purposeful humiliation to the point (or attempted point) of intense, mental anguish and total loss of self-worth through sexual interaction; typically implies exceptional or devastating, psychological damage.
+* Verbal Abuse
+? The act of verbally accosting or being verbally accosted with derogatory terms often pertaining to sex or appearance, with a focus on demeaning, degrading, or otherwise humiliating another person.  May elicit sexual stimulation from abuse.
 
 #Touch & Stimulation
 (Actor, Subject)
-* Cock/Pussy worship
-? Gratuitous acknowledgment of one's partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Ass worship
-? Gratuitous acknowledgment of one's partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
-* Foot play
-? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
+* Ass Worship
+? Gratuitous acknowledgment of a partner's ass, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
+* Cock/Pussy Worship
+? Gratuitous acknowledgment of a partner's genitalia, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
+* Breast/Nipple Worship
+? Gratuitous acknowledgement of a partner's chest or nipples, either verbal and/or physical, or receiving such actions.
+* Muscle Worship
+? Gratuitous acknowledgment of someone's muscular physique, either verbal or physical.
+* Electro Stimulation
+? The use of devices that carry an electrical current; sometimes painful.  Dangerous when performed carelessly.
+* Podophilia / Foot Play
+? The act of incorporating the feet or hind paws into a sexual encounter, including but not limited to the worshipping of feet, receiving sexual gratification from the sight or smell of feet, and/or humping feet, sometimes to the point of orgasm.
+* Sensation Play
+? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be. Sight, taste, and hearing can also be included in sensation play. Sensory deprivation is often a tool used to heighten other senses.
 * Tickling
-? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
-* Sensation play
-? Sensation play describes a wide variety of activities, both vanilla and kinky, that use the body's senses as a way to arouse and provide stimulation to a partner. Although sensation play is often related to skin sensations, it doesn't have to be so limited. Sight, taste, and hearing can also be included in sensation play.
-* Electro stimulation
-? The use of sex toys that carry an electrical current; sometimes painful.
+? The act of tickling and/or being tickled in a sexual context; or, receiving sexual stimulation from such an act.
 
-#Misc. Fetish
+#Misc. Kinks
 (Giving, Receiving)
+* Breeding / Impregnation
+? Entails the act sexual intercourse for the sole purpose of inducing pregnancy and/or producing offspring.  Also called Enkuopoiphilia, a sexual interest in impregnating others.  Pretty vanilla when it's put like that, huh?
+* Double Penetration
+? The act of penetrating a single person with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
 * Fisting
-? The act of placing one's hand(s) and/or arm(s) into a vagina, or receiving such actions.
+? The act of placing one's hand(s) and/or arm(s) into a vagina or anus, or receiving such actions.  Requires training and experience or injury is likely.
+* Gaping
+? Stretching the vagina or anus during penetration, to the point that it stays open for a period of time.
 * Gangbang
-? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.
-* Breath play
-? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
-* Impregnation
-? Impregnating a character
+? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.  Gangrape is the non-consentual version of a gangbang.
 * Pregnancy
-? Fetishizing a pregnant character
-* Feminization
-? Feminization is a type of role play that involves imposing traditionally female attributes onto a submissive male partner. It may also involve an adoption of traditionally feminine behaviors and mannerisms.
-* Cuckold / Cuckquean
-? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP.
+? Fetishizing a pregnant person. 
 * Shaving
+? The act of removing hair (or fur) from a participant by means of shaving or waxing.  
+* Stomach Bulging
+? Engaging in sexual activities in which the recipient's stomach will visibly become distended, either due to an exceptionally large insertion, due to eating an exceptionally large amount of food, or as a localized form of inflation from any liquid or gas.
+* Being Stuck
+? The act of being unable to move from a (typically ordinary) object.  Frequent uses of this kink involve quick-setting concrete, holes that are difficult to remove oneself from, and washing machines.  The stuck person is typically abused by one or more parties while stuck.  
+* Time-Stop
+? Relating to the ability or phenomenon of time being significantly dilated or stopped for one or more (often all but one) person.  Actual physics doesn't typically apply, so "unfrozen" people are able to use or abuse those that are "frozen".  A common trope with this kink is for time to be "unpaused" after acts have been completed, showcasing the shocked or confused reactions of people that were interacted with during the time-stop phenomenon.  
+
+#Watersports & Scat
+(General)
+* Bathroom Control
+? A situation in which someone controls when, how, and where another person may use the bathroom in any fashion, typically as a form of control or degradation.
+* Diapers
+? A situation in which at least one participant will wear a diaper; typically implies that the diaper will be soiled with urine and/or fecal matter, usually in conjunction with age play or infantilism, but sometimes in conjunction with humiliation.
+* Eproctophilia (Flatulence)
+? Expelling gas through the anus during sexual intercourse, or just as an act on its own.  In pornography, intentional farting is often exaggerated (visible expulsions of air) and/or with exaggerated flatulent noises.
+* Wetting / Omorashi
+? The act of urinating in one's underwear, pants or clothes, or having another person urinate onto a person who is clothed to any degree.
+* Soiling
+? The act of "fecal soiling" in one's underwear, pants or clothes, or having another person perform such actions.
+* Watersports
+? Pertains to the inclusion of urine, or the expelling of urine, in any form, in a sexual context, including golden showers (being peed on) and being used as a urinal.
+* Scat
+? Pertains to the inclusion of fecal matter or the expelling of fecal matter in any form in a sexual context.
+* Emetophilia (Vomiting)
+? Deriving sexual enjoyment from the act of vomiting, being vomited upon, inducing vomit in others, or from the substance of vomit.
 
 #Pain
 (Giving, Receiving)
-* Light pain
-? Refers to the inclusion of light physical pain due to acts which are directly sexual.
-* Heavy pain
-? Refers to the inclusion of heavy physical pain due to acts which are directly sexual; typically rough or excessive penetrations. This is probably gonna leave a mark.
-* Nipple clamps
-? pressure device applied to nipples to create pain which produces pleasure.
-* Clothes pins
-? Pinching sking between the forks of a clothes pin
+* Light/Moderate Pain
+? Preference of inclusion of light physical pain relating or due to acts which may not be directly sexual.  Does not leave permanent marks, if any.
+* Heavy Pain
+? Preference of inclusion of heavy physical pain relating or due to acts which may not be directly sexual.  Often leaves marks.
+* Sadism
+? The enjoyment (typically sexual) of inflicting physical pain or harm on others.  Includes humiliation, degradation, etc.
+* Masochism
+? The enjoyment (typically sexual) of receiving physical pain or harm.  Includes humiliation, degradation, etc.
+* Branding
+? A situation in which at least one person will have a design burned into their skin as a form of sadomasochism.  Typically by means of applying intense heat in a specific pattern designed to visually and permanently indicate ownership.  
+* Face Slapping
+? Open-handed hits to the face, of any degree or severity.  Fingers together, hand firm, wrist straight, aim with the base of the fingers, aaaaand smack!
+* Flogging/Whipping
+? The use of whips of any type, riding crops, paddles, or flogs.  Typically used for sensation play, uncommonly to point of damage or injury.  
+* Belonephilia / Needle Play
+? An affinity for pins, needles, and sharp objects typically used for piercing.  Belonephilia can be quite dangerous.  
+* Knife Play / Cutting 
+? The act of cutting a partner to cause pain in a sexual context.
+* Wax Play
+? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
+* Nipple Clamps
+? pressure device applied to the nipples to create pain with the usual intent to produce pleasure in the recipient.
+* Clothes Pins
+? Pinching skin between the tips of a clothes pin, occasionally used with many clothes pins in a row to produce a pattern.  
 * Caning
-? Caning is a technique used in BDSM in which the dominant repeatedly strikes the submissive with a long flexible cane, usually on the buttocks.
-* Flogging
-? The use of toys, typically associated with BDSM and domination/submission, being employed against a submissive or bottom, particularly referring to contact play involving whips of any type, riding crops, paddles or flogs.
+? Caning is a technique used in BDSM in which the dominant repeatedly strikes the submissive with a long flexible cane or switch, usually on the buttocks.  
 * Gagging / Choking
 ? Being made to gag or choke, either by objects inserted into the mouth or hands/objects around the neck.
-* Beating
-? Being struck with fists or other objects
+* Impact Play
+? Being struck with fists or other objects.  The stomach is a common area for this.
 * Spanking
-? The act of striking the buttocks of another character, or being the recipient of such; often as a form of erotic foreplay or as punishment in a BDSM setting.
-* Cock/Pussy slapping
-? slapping the genitalia of your partner, or recieving such slaps
-* Cock/Pussy torture
-? Engaging in an RP in which at least one character's genitals will be given negative attention, the intent of which to be to cause physical pain.
-* Hot Wax
-? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
-* Scratching
-? One character scratching another with their nails or claws, sometimes leaving marks; sometimes but not necessarily painful.
+? The act of striking the ass, often as a form of erotic foreplay or as punishment in a BDSM setting.  Frequently used in ageplay scenarios.  
+* Cock/Pussy Slapping
+? Slapping the genitalia of your partner, or recieving such slaps.  
+* Acarophilia (Scratching)
+? One person scratching another with their nails (or claws), sometimes leaving marks.  Not necessarily painful.
 * Biting
 ? The act of biting or being bitten; sometimes painful, sometimes playful.
-* Cutting 
-? The act of cutting a partner to cause pain in a sexual context.
-* Snuff
-? Murdering a character as part of sex.
+* 3+ Penetration
+? The act of penetrating a single person with three or more objects, including but not limited to the penis, sex toys, fist etc., or receiving such actions.
+* Anal Prolapse
+? Where insides of the anus are pulled out by force (unnatural means, such as a cream, liquid or suction method or internal massage) or naturally (either by a cock, dildo, or pushing). 
+* Breast Smothering
+? The act of smothering a person using one's breasts, making it difficult or impossible to breathe.
+* Hair Pulling
+? The act of pulling or tugging on another person's hair, or being the recipient of such acts.
 
-#Meta
-(Self, Partner)
-* First Person
-* Third Person
-* Short Post Length (~1-3 sentences)
-* Medium Post Length (~3-7 sentences)
-* Long Post Length (~2-4 paragraphs)
-* Story (3+ paragraphs)
-* Dynamic Post Length
-
-#Medium
+#Gore, Torture, and Death
 (General)
-* Skype
-* Kik
-* Reddit
-* E-Mail
-* Discord
-* Other
+* General Torture
+? The act of causing or receiving significant or extended pain due to acts that may or may not be of a sexual nature, including psychological abuse for extended periods of time or to a great degree of intensity.
+* Genital Torture
+? Engaging in an act in which at least one person's genitals will be given negative attention, the intent of which to be to cause physical pain.
+* Breast/Nipple Torture
+? A situation in which at least one person's breasts or nipples will be the subject of physical, non-sexual pain of an extended duration.
+* Menstruation / Menses
+? Engaging in an act in which menstruation will be applied to the sexual context of the situation.
+* Mutilation
+? The act of physically damaging or otherwise causing irreparable change and/or harm to another person, typically via cutting, stabbing, or contact objects; often exceptionally painful.
+* Self-Mutilation
+? The act of physically damaging or otherwise causing irreparable change and/or harm to oneself, typicaly via cutting, stabbing, or contact objects; often exceptionally painful.  
+* Amputation / Nullification
+? The removal of any body part.
+* Piercing
+? The act of piercing a person's body, typically in a painful manner, and often in a sexual or exceptionally sensitive location on the person's body, or having one's own body pierced.
+* Snuff
+? The inclusion of murder within a sexual context.  
 
-#Time-Scale
-(Self, Partner)
-* Short-Term Scenes
-* Medium-Term Scenes
-* Long-Term Scenes
-* Quick Replies (0~10 mins)
-* Fast Replies (10~30 mins)
-* Normal Replies (30min ~ 2hours)
-* Slow Replies (2~8 hours)
-* Glacial Replies (8-24 hours)
-* Occasional Replies (24+ hours)
+#Media
+(General)
+* Physical Reality
+? You filthy degenerate.
+* Imagination
+* Video Games (Realistic)
+* Video Games (Stylized)
+? This includes any art style other than realism, of which one of the most common is an anime type art style.  
+* Plot-Centered Movies
+* Video Content (Realistic)
+* Video Content (Stylized)
+? This includes any art style other than realism, of which one of the most common is an anime type art style.  
+* Pictures/Images (Realistic)
+? This includes photos taken in real life and realistic renderings.
+* Pictures/Images (Stylized)
+? This includes any art style other than realism, of which one of the most common is an anime type art style.  
+* Written Stories
+? This does not include collaborative stories or roleplay.  
+* Collaborative Stories
+? This includes collaborative roleplay between two or more people.
+* Text Conversations
+? This includes forums, chat rooms, and text messages. 
+* Audio Only
+? This includes phone conversations.
