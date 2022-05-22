@@ -160,7 +160,6 @@ td + td { border-left-style:none }
   bottom: 0;
   width: 100%;
   text-align: center;
-  padding-top: 100px;
   padding-bottom: 10px;
   box-sizing:inherit
 }
