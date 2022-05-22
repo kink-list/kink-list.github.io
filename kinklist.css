@@ -24,14 +24,12 @@ th {
 	margin:0;
 	padding:4px;
 	background-color:#666;
-	color:#FFF;
-	padding-bottom:60px
+	color:#FFF
 }
 
 th.choicesCol {
 	box-sizing:border-box;
-	width:145px;
-	padding-bottom:60px
+	width:145px
 }
 
 th + th { border-left:none }
@@ -163,6 +161,7 @@ td + td { border-left-style:none }
   bottom: 0;
   width: 100%;
   text-align: center;
+  padding-top: 100px;
   padding-bottom: 10px;
   box-sizing:inherit
 }
